@@ -1,0 +1,8 @@
+# Ignore LLM model file
+saul-instruct-v1.Q4_0.gguf
+
+# Ignore .docx files
+*.docx
+
+# Ignore GUI.py
+GUI.py
